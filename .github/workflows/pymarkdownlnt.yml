@@ -36,7 +36,7 @@ jobs:
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: Install and run linter
         run: |-
-          sudo apt install python3-poetry-plugin-export
+          sudo apt-get install python3-poetry-plugin-export
           cd tools
           uv venv
           . .venv/bin/activate
