@@ -41,4 +41,5 @@ jobs:
           . .venv/bin/activate
           poetry export --format requirements.txt --output requirements.txt
           uv pip install --require-hashes -r requirements.txt
+          cd ..
           pymarkdownlnt -s 'plugins.md024.siblings_only=$!True' scan */*.md
