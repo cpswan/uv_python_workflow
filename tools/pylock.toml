@@ -20,10 +20,10 @@ wheels = [{ name = "columnar-1.4.1-py3-none-any.whl", url = "https://files.pytho
 
 [[packages]]
 name = "pymarkdownlnt"
-version = "0.9.29"
+version = "0.9.28"
 index = "https://pypi.org/simple"
-sdist = { url = "https://files.pythonhosted.org/packages/b6/37/0fe2a78d2040cd4cbdb389d92d1cfac313e24f28848e3afb7fb6b0af5833/pymarkdownlnt-0.9.29.tar.gz", upload-time = 2025-03-11T03:05:36Z, size = 399715, hashes = { sha256 = "cfa37fe778fbaa11714bcc617e90f7293c628cfadce9c2ec3ea89d9b24aca086" } }
-wheels = [{ url = "https://files.pythonhosted.org/packages/17/e6/048d91c5954c0447dedc6622388bcaf301339d8d14d31cbd7016dda012e5/pymarkdownlnt-0.9.29-py3-none-any.whl", upload-time = 2025-03-11T03:05:35Z, size = 482105, hashes = { sha256 = "8492992c75c94d1d6dd64a8c49c8ce63a171bffb45a2a054235440fe30ebdb34" } }]
+sdist = { url = "https://files.pythonhosted.org/packages/99/d6/f0e0fefa6a20b9018c1b5108f662b934fbea4ab2aafd03a01ac53cad6bca/pymarkdownlnt-0.9.28.tar.gz", upload-time = 2025-02-13T02:12:15Z, size = 398400, hashes = { sha256 = "41d03819b0f5e9f74e377bf70183c2678993f13de3622d49b369fc2d567afaf1" } }
+wheels = [{ url = "https://files.pythonhosted.org/packages/8f/e3/22b4f588b936c2d9affe913f33a69df7e3935b2bb9bcb1b7310f3071bfff/pymarkdownlnt-0.9.28-py3-none-any.whl", upload-time = 2025-02-13T02:12:13Z, size = 480976, hashes = { sha256 = "40af0406ed9fb78818e9c4b41c98a12b764ad39437e4f1f4bdce99b3c6cbbc59" } }]
 
 [[packages]]
 name = "pyyaml"
